@@ -1,0 +1,8 @@
+{
+	"data": [
+		{
+			"name": "customer_status",
+			"values": ["ACTIVE", "INACTIVE", "HOLD"]
+		}
+	]
+}
